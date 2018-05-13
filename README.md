@@ -10,5 +10,5 @@ I joined this challenge to push myself to build a healthy habit of taking an hou
 
 By the end of the challenge, I hope to have:
 1. Improved my Java/Scala skills
-2. Improved and regain confidence in my Data Structure and Algorithm skills
-3. Write and blog on projects and other interesting informations
+2. Improved and regained confidence in my Data Structure and Algorithm skills
+3. Wrote and blogged on projects and other take-aways
