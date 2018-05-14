@@ -20,3 +20,15 @@
 1. [Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/)
 2. [Tweet](https://twitter.com/DenimMazuki/status/995897561738231808)
 3. [Solution](https://github.com/DenimMazuki/100-days-of-code/blob/master/DS%26Algo/Repeated_String_Match.java)
+
+### Day 3: May 14 2018, Monday
+
+**Today's Progress:** I've completed the [K Empty Slots](https://leetcode.com/explore/interview/card/google/67/sql-2/470/) problem on Leetcode. 
+**Thoughts:** R1D3: Today for #100DaysOfCode , I finished the K-Empty Slots problem on Leetcode. After spending time understanding the premise, I managed to brute-force a solution. After about an hour, I managed to write a Sliding-Window solution. I think I've had enough flowers for the day 😅
+
+**Link(s) to work**
+1. [K Empty Slots](https://leetcode.com/explore/interview/card/google/67/sql-2/470/)
+2. [Tweet](https://twitter.com/DenimMazuki/status/996105337403920386)
+3. [Solution](https://github.com/DenimMazuki/100-days-of-code/blob/master/DS%26Algo/K_Empty_Slots.java)
+
+
