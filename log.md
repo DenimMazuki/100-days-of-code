@@ -8,3 +8,15 @@
 
 **Link(s) to work**
 1. [Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/)
+2. [Tweet](https://twitter.com/DenimMazuki/status/995564867221241856)
+
+### Day 2: May 13 2018, Sunday
+
+**Today's Progress:** I've completed the [Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/) problem on Leetcode. I've also read chapter 1-6 of [Effective Java](https://www.amazon.com/s/?ie=UTF8&keywords=effective+java+3rd+edition&tag=googhydr-20&index=aps&hvadid=241870396956&hvpos=1t1&hvnetw=g&hvrand=15289863680142790049&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9030795&hvtargid=kwd-13181264399&ref=pd_sl_5dar4okm7z_e)
+
+**Thoughts:** R1D2: Today, my laptop died on day 2 of #100DaysOfCode. Thankfully I managed to grab a hold of a laptop to finish up Repeated String Match after a day of thoughts. It feels good to shake off the algorithm rust! Additionally, I've also managed to read 5 chapters of Effective Java!
+
+**Link(s) to work**
+1. [Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/)
+2. [Tweet](https://twitter.com/DenimMazuki/status/995897561738231808)
+3. [Solution](https://github.com/DenimMazuki/100-days-of-code/blob/master/DS%26Algo/Repeated_String_Match.java)
