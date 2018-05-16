@@ -23,7 +23,8 @@
 
 ### Day 3: May 14 2018, Monday
 
-**Today's Progress:** I've completed the [K Empty Slots](https://leetcode.com/explore/interview/card/google/67/sql-2/470/) problem on Leetcode. 
+**Today's Progress:** I've completed the [K Empty Slots](https://leetcode.com/explore/interview/card/google/67/sql-2/470/) problem on Leetcode.
+
 **Thoughts:** R1D3: Today for #100DaysOfCode , I finished the K-Empty Slots problem on Leetcode. After spending time understanding the premise, I managed to brute-force a solution. After about an hour, I managed to write a Sliding-Window solution. I think I've had enough flowers for the day 😅
 
 **Link(s) to work**
@@ -31,4 +32,13 @@
 2. [Tweet](https://twitter.com/DenimMazuki/status/996105337403920386)
 3. [Solution](https://github.com/DenimMazuki/100-days-of-code/blob/master/DS%26Algo/K_Empty_Slots.java)
 
+### Day 4: May 15 2018, Tuesday
 
+**Today's Progress:** I've completed the [Next Closest Time](https://leetcode.com/explore/interview/card/google/67/sql-2/471/) problem on Leetcode. I've also worked on a couple of chapter 5 problems on [Functional Programming in Java](https://www.manning.com/books/functional-programming-in-java) book.
+
+**Thoughts:** R1D4: Today for #100DaysOfCode, I was hard pressed for time to solve the Next Closest Time on Leetcode. I need practice to solve problems in shorter amount of time. Additionally, I've found time to work on exercises from Functional Programming in Java book! Time to go to sleep!
+
+**Link(s) to work**
+1. [Next Closest Time](https://leetcode.com/explore/interview/card/google/67/sql-2/471/)
+2. [Tweet](https://twitter.com/DenimMazuki/status/996636895399456769)
+3. [Solution](https://github.com/DenimMazuki/100-days-of-code/blob/master/DS%26Algo/Next_Closest_Time.java)
