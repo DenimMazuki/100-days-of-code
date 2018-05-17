@@ -42,3 +42,14 @@
 1. [Next Closest Time](https://leetcode.com/explore/interview/card/google/67/sql-2/471/)
 2. [Tweet](https://twitter.com/DenimMazuki/status/996636895399456769)
 3. [Solution](https://github.com/DenimMazuki/100-days-of-code/blob/master/DS%26Algo/Next_Closest_Time.java)
+
+### Day 5: May 16 2018, Wednesday
+
+**Today's Progress:** I've completed the [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/) problem on Leetcode.
+
+**Thoughts:** R1D5: Today for #100DaysOfCode, I completed Longest Univalue Path problem on Leetcode. It's been way too long since I practiced recursion with 🌲. Here's to completing 5% of the journey 🍻
+
+**Link(s) to work**
+1. [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/)
+2. [Tweet](https://twitter.com/DenimMazuki/status/997011130001244160)
+3. [Solution](https://github.com/DenimMazuki/100-days-of-code/blob/master/DS%26Algo/Longest_Univalue_Path.java)
