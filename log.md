@@ -53,3 +53,14 @@
 1. [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/)
 2. [Tweet](https://twitter.com/DenimMazuki/status/997011130001244160)
 3. [Solution](https://github.com/DenimMazuki/100-days-of-code/blob/master/DS%26Algo/Longest_Univalue_Path.java)
+
+### Day 6: May 16 2018, Wednesday
+
+**Today's Progress:** I've completed the [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) problem on Leetcode.
+
+**Thoughts:** R1D6: I've completed the License Key Formatting problem on Leetcode. So far for #100DaysOfCode, I've been working on a problem a day. Feeling pleased to be able to make small incremental progress while vacationing. #TrustTheProcess
+
+**Link(s) to work**
+1. [License Key Formatting](https://leetcode.com/problems/license-key-formatting/)
+2. [Tweet](https://twitter.com/DenimMazuki/status/997373118564847616)
+3. [Solution](https://github.com/DenimMazuki/100-days-of-code/blob/master/DS%26Algo/License_Key_Formatting.java)
