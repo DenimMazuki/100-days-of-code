@@ -73,3 +73,12 @@
 
 **Link(s) to work**
 1. [Tweet](https://twitter.com/DenimMazuki/status/997658730387783681)
+
+### Day 8: May 18 2018, Saturday
+
+**Today's Progress:** I've made more progress writing "Optimizing recursions in Java with Tail Call Elimination". I edited and wrote a segment on Understanding recursion and added examples and explanations on recursions. Began working on Why recursions.
+
+**Thoughts:** R1D8: Today for #100DaysOfCode, I worked on my article on "Optimizing recursions in Java with Tail Call Elimination". I edited some of the paragraphs and added additional examples. Pretty good progress thus far! 😎
+
+**Link(s) to work**
+1. [Tweet](https://twitter.com/DenimMazuki/status/998110932885622784)
