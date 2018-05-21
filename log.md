@@ -54,7 +54,7 @@
 2. [Tweet](https://twitter.com/DenimMazuki/status/997011130001244160)
 3. [Solution](https://github.com/DenimMazuki/100-days-of-code/blob/master/DS%26Algo/Longest_Univalue_Path.java)
 
-### Day 6: May 16 2018, Thursday
+### Day 6: May 17 2018, Thursday
 
 **Today's Progress:** I've completed the [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) problem on Leetcode.
 
@@ -65,7 +65,7 @@
 2. [Tweet](https://twitter.com/DenimMazuki/status/997373118564847616)
 3. [Solution](https://github.com/DenimMazuki/100-days-of-code/blob/master/DS%26Algo/License_Key_Formatting.java)
 
-### Day 7: May 17 2018, Friday
+### Day 7: May 18 2018, Friday
 
 **Today's Progress:** I've made progress writing "Optimizing recursions in Java with Tail Call Elimination". I wrote the introduction and "Understanding recursion"
 
@@ -74,7 +74,7 @@
 **Link(s) to work**
 1. [Tweet](https://twitter.com/DenimMazuki/status/997658730387783681)
 
-### Day 8: May 18 2018, Saturday
+### Day 8: May 19 2018, Saturday
 
 **Today's Progress:** I've made more progress writing "Optimizing recursions in Java with Tail Call Elimination". I edited and wrote a segment on Understanding recursion and added examples and explanations on recursions. Began working on Why recursions.
 
@@ -82,3 +82,12 @@
 
 **Link(s) to work**
 1. [Tweet](https://twitter.com/DenimMazuki/status/998110932885622784)
+
+### Day 9: May 20 2018, Sunday
+
+**Today's Progress:** I've reviewed previous solved problems (Repeated String Match and K Slots)
+
+**Thoughts:** R1D9: Today for #100DaysOfCode , I reviewed previously solved Leetcode problems to test my understanding on problems. Glad to see that practice were not for naught :)
+
+**Link(s) to work**
+1. [Tweet](https://twitter.com/DenimMazuki/status/998439523833921537)
