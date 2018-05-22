@@ -91,3 +91,12 @@
 
 **Link(s) to work**
 1. [Tweet](https://twitter.com/DenimMazuki/status/998439523833921537)
+
+### Day 10: May 21 2018, Monday
+
+**Today's Progress:** I've read the documentations for Play 2.6 and dissected JPA example
+
+**Thoughts:** R1D10: Today for #100DaysOfCode , I read the documentations for Java @playframework 2.6 as well as dissect the JPA example on the site. Does anyone know the best way to deep dive into Play?
+
+**Link(s) to work**
+1. [Tweet](https://twitter.com/DenimMazuki/status/998809289048260609)
