@@ -118,3 +118,12 @@
 
 **Link(s) to work**
 1. [Tweet](https://twitter.com/DenimMazuki/status/999723900937297921)
+
+### Day 13: May 27 2018, Sunday
+
+**Today's Progress:** I've solved 3 Leetcode problems and read 2 chapters of Reactive Design Pattern
+
+**Thoughts:**  R1D13: Today for #100DaysOfCode , I solved 3 LeetCode problems and read 2 chapters of Reactive Design Pattern. Unfortunately, I've missed the past 2 days due to the start of internship (and lack of wifi at home). But enough excuses with excuses. Here's to a smooth 100 days!
+
+**Link(s) to work**
+1. [Tweet](https://twitter.com/DenimMazuki/status/1000651934120927233)
