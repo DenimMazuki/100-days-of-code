@@ -100,3 +100,21 @@
 
 **Link(s) to work**
 1. [Tweet](https://twitter.com/DenimMazuki/status/998809289048260609)
+
+### Day 11: May 22/23 2018, Tuesday/Wednesday (Airplane)
+
+**Today's Progress:** I've finished Play for Java
+
+**Thoughts:**  R1D11: Today for #100daysofCode , I finished reading Play for Java while being stuck in a plane for 16 hours. Let's do that again 😇
+
+**Link(s) to work**
+1. [Tweet](https://twitter.com/DenimMazuki/status/999260634616283137)
+
+### Day 12: May 24 2018, Thursday
+
+**Today's Progress:** I've read 2 chapters of Reactive Design Pattern
+
+**Thoughts:**  R1D12: Today for #100DaysOfCode , I didn't have access to WiFi. Thank goodness to ebook! Today, I read 2 chapters of Reactive Design Pattern
+
+**Link(s) to work**
+1. [Tweet](https://twitter.com/DenimMazuki/status/999723900937297921)
